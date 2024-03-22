@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 tes_config
+=======
+tes config 1
+>>>>>>> test_conflict
